@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true, // export를 export default처럼 변경해줌
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
